@@ -7,4 +7,4 @@ onde dividimos nosso código CSS em vários arquivos separados para melhor contr
 com as boas práticas de programação e código.
 
 - Design responsivo usando media queries para que o site se adapte à
-diferentes tipos e tamanhos de 
+diferentes tipos e tamanhos de tela.
