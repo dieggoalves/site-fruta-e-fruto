@@ -14,7 +14,7 @@
 <h2> :hammer: Funcionalidades</h2>
 <p>Apenas template.</p>
 <br>
-<h2>:bulb: Conceios técnicos aplicados</h2>
+<h2>:bulb: Conceitos técnicos aplicados</h2>
 <p>:small_blue_diamond: Atomic CSS para melhor organização e manutenção do código</p>
 <p>:small_blue_diamond: Metodologia BEM(Bloco, Elemento, Modificador) nas classes, que facilita na construção do código o mantém reutilizável esustentável</p>
 <p>:small_blue_diamond: Design responsivo para manter a proporção dos elementos em diferentes tamanhos de tela</p>
